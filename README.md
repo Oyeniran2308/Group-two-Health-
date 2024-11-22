@@ -5,12 +5,9 @@ The objective of this analysis is to examine the regional trends and impacts of 
 - Size: 5770 rows, 10 columns
 - Key Fields:
 
-  . Country & Region: geographical location of affected places
-
-  . Year 
-
-  . Expected death
- 
-  . Total Death
-  . Covid death
-  . Non-covid death
+  1. Country & Region: geographical location of affected places
+  2. Year
+  3. Expected death
+  4. Total Death
+  5. Covid death
+  6. Non-covid death
