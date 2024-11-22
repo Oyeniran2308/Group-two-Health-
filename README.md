@@ -14,8 +14,12 @@ The objective of this analysis is to examine the regional trends and impacts of 
   5. Covid death
   6. Non-covid death
 ## Exploratory Data Analysis (EDA)
-- Which region experienced the highest number of COVID-19-related deaths?
-- In which year were the COVID-19 death counts at their peak?
+The exploratory data analysis (EDA) aims to address the following critical questions:
+
+- Which region reported the highest number of COVID-19-related deaths?
+- In which year did COVID-19 death counts reach their peak?
 - What is the total number of COVID-19-related deaths recorded across all regions?
 - What is the total number of non-COVID-related deaths recorded across all regions?
-- How does the number of expected deaths correlate with COVID-19 deaths when analyzed by the month of the end date?
+- How does the number of expected deaths correlate with COVID-19-related deaths when analyzed by the month of the end date?
+
+These insights will provide a comprehensive understanding of the data trends and relationships related to COVID-19 mortality.
