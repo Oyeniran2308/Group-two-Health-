@@ -49,7 +49,7 @@ Death]/'''Measures'''[Total Death])
 
 **Date Function:** Date_Table = CALENDARAUTO()
 
-## Recommendations:
+## Recommendations
 
 **1. Regional Focus:**
 - Regions with higher COVID death concentrations (e.g., Europe and North America) 
@@ -72,3 +72,10 @@ allocation, and public health strategies.
 but vulnerable populations.
 - Promote health awareness campaigns to reduce the number of preventable non-COVID 
 deaths.
+
+## Conclusion
+
+This dashboard effectively captures the stark impact of COVID-19 on global mortality. However, the 
+dominance of non-COVID deaths (89.7%) suggests an urgent need to address broader health challenges 
+beyond the pandemic. By identifying hotspots and trends, policymakers can design targeted 
+interventions to reduce preventable deaths, improve global health equity, and prepare for future crises
