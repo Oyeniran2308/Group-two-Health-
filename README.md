@@ -49,7 +49,30 @@ Death]/'''Measures'''[Total Death])
 
 **Date Function:** Date_Table = CALENDARAUTO()
 
-## Analysis
+## COVID-19 Mortality Analysis Across Regions
+
+**- Region with the Highest COVID-19 Deaths**
+  Approximately 32.9 million deaths were recorded across all regions, of which 3.4 million deaths (10.3%) were attributed to COVID-19. Among all regions, the United States reported the highest    number of COVID-19 deaths, with 1,011,492 cases accounting for 12.0% of the global COVID-19 mortality. Notably, January emerged as the most severely affected month, recording 178,058 deaths.
+
+**- Peak COVID-19 Mortality Trends**
+  The analysis reveals that COVID-19 deaths reached their peak in 2021, with a total of 1,654,330 deaths (12.1%). January was the deadliest month in 2021, with 320,900 deaths, while June          recorded the lowest monthly deaths at 66,100.
+
+**- Total COVID-19 and Non-COVID Deaths**
+
+   COVID-19 Deaths: Approximately 3.4 million deaths were attributed to COVID-19 across 46 regions.
+
+   Non-COVID Deaths: A total of 29.5 million deaths were non-COVID-related, signifying that the majority of fatalities in these regions were not linked to the pandemic.
+
+**- Correlation Between Expected Deaths and COVID-19 Deaths**
+
+   Analysis of expected deaths versus COVID-19 deaths indicates: The highest recorded COVID-19 deaths were 35,153, with other significant values being 63,320 and 62,940.
+   For the subgroup 59,442, COVID-19 deaths accounted for 1.04%.
+   Across 5,673 expected deaths, COVID-19 deaths ranged from 0 to 35,153, demonstrating no clear correlation between expected deaths and COVID-19 mortality.
+
+
+  _This analysis highlights critical patterns in COVID-19 mortality, emphasizing the United States' disproportionate impact, the temporal peaks in 2021, and the distinction between COVID and       non-COVID-related fatalities._
+
+## Findings
 
 **Monthly Analysis of Expected Deaths:**
 
