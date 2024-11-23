@@ -32,6 +32,7 @@ These insights will provide a comprehensive understanding of the data trends and
 
 **Data Cleaning:** Microsoft excel was used to remove duplicate, check blank space, change 
 the case and align columns.
+
 **Data Visualization:** Measure table was created ('Measures' = ROW("measures", 
 BLANK()) and under measure table some measures which help in the analysis was also 
 created.
@@ -46,28 +47,28 @@ Death]/'''Measures'''[Total Death])
 - Non Covid_death = SUM(all_weekly_excess_deaths[non_covid_deaths])
 - Total Death = SUM('all_weekly_excess_deaths'[total_deaths])
 - Total excess death = SUM(all_weekly_excess_deaths[Excess Death])
+- Date Function: Date_Table = CALENDARAUTO()
 
  **Fig 1** 
  
 ![My_project final 11_22_2024 11_02_27 AM](https://github.com/user-attachments/assets/07cfc8b9-2471-40aa-9d0a-3098d3dea4a5)
 
+**Fig 2**
 ![My_project final 11_22_2024 9_27_43 PM](https://github.com/user-attachments/assets/93428764-32df-4eee-93d5-56679dbbca19)
 
-
-**Date Function:** Date_Table = CALENDARAUTO()
 
 ## COVID-19 Mortality Analysis Across Regions
 
 **- Region with the Highest COVID-19 Deaths**
   Approximately 32.9 million deaths were recorded across all regions, of which 3.4 million deaths (10.3%) were attributed to COVID-19. Among all regions, the United States reported the highest    number of COVID-19 deaths, with 1,011,492 cases accounting for 12.0% of the global COVID-19 mortality. Notably, January emerged as the most severely affected month, recording 178,058 deaths.
 
-**Fig 1.**
+**Fig 3.**
   ![population across region](https://github.com/user-attachments/assets/67b295e5-4efa-42aa-91c4-e9e6f1fd444b)
 
 **- Peak COVID-19 Mortality Trends**
   The analysis reveals that COVID-19 deaths reached their peak in 2021, with a total of 1,654,330 deaths (12.1%). January was the deadliest month in 2021, with 320,900 deaths, while June recorded the lowest monthly deaths at 66,100.
 
-**Fig 2.**
+**Fig 4.**
 ![covid and non-covid death per year](https://github.com/user-attachments/assets/328df46e-1abe-4596-b55e-7e78a8e688dc)
 
 **- Total COVID-19 and Non-COVID Deaths**
@@ -76,7 +77,7 @@ Death]/'''Measures'''[Total Death])
 
    Non-COVID Deaths: A total of 29.5 million deaths were non-COVID-related, signifying that the majority of fatalities in these regions were not linked to the pandemic.
 
-**Fig 3**
+**Fig 5**
 ![covid and non-covid death per year](https://github.com/user-attachments/assets/f9692fa8-3b2f-43fc-9eec-d07f76959d93)
 
 **- Correlation Between Expected Deaths and COVID-19 Deaths**
@@ -85,7 +86,7 @@ Death]/'''Measures'''[Total Death])
    For the subgroup 59,442, COVID-19 deaths accounted for 1.04%.
    Across 5,673 expected deaths, COVID-19 deaths ranged from 0 to 35,153, demonstrating no clear correlation between expected deaths and COVID-19 mortality.
 
-**Fig 4**
+**Fig 6**
 ![expected and covid death](https://github.com/user-attachments/assets/fb28be51-9fcf-4e4e-82ba-e06a931cff3d)
 
   _This analysis highlights critical patterns in COVID-19 mortality, emphasizing the United States' disproportionate impact, the temporal peaks in 2021, and the distinction between COVID and       non-COVID-related fatalities._
