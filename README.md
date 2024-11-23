@@ -48,6 +48,11 @@ Death]/'''Measures'''[Total Death])
 - Total excess death = SUM(all_weekly_excess_deaths[Excess Death])
 
  **Fig 1** 
+ 
+![My_project final 11_22_2024 11_02_27 AM](https://github.com/user-attachments/assets/07cfc8b9-2471-40aa-9d0a-3098d3dea4a5)
+
+![My_project final 11_22_2024 9_27_43 PM](https://github.com/user-attachments/assets/93428764-32df-4eee-93d5-56679dbbca19)
+
 
 **Date Function:** Date_Table = CALENDARAUTO()
 
