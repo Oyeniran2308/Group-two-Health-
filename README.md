@@ -131,7 +131,7 @@ skewing data in regions like Africa.
 **2. Improving Data Accuracy:**
 - Countries should standardize data collection and reporting mechanisms to ensure 
 consistency across regions.
-- Enhance tracking for comorbidities that might bridge the gap between COVID and nonCOVID deaths.
+- Enhance tracking for comorbidities that might bridge the gap between COVID and non COVID deaths.
 
 **3. Preparedness for Future Pandemics:**
 - Insights from the data should guide policymaking for early detection, resource 
