@@ -3,19 +3,19 @@
 The objective of this analysis is to examine the regional trends and impacts of COVID-19 by  analyzing infection rates, recovery rates, and mortality across different geographical areas.
 ## Table of Content
 
-[DATASET](dataset)
+- [DATASET](#dataset)
 
-EXPLORATORY DATA ANALYSIS
+- [TOOLS AND TECHNIQUE USED](#tools-and-technique-used)
 
-TOOLS AND TECHNIQUE USED
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-COVID-19 MORTALITY ANALYSIS ACROSS REGIONS
+- [COVID-19 MORTALITY ANALYSIS ACROSS REGIONS ](#covid-19-mortality-analysis-across-regions)
 
-FINDINGS
+- [FINDINGS](#findings)
 
-RECOMMENENDATION
+- [RECOMMENDATIONS](#recommendations)
 
-CONCLUSION
+- [CONCLUSION](#conclusion)
 
 
 ## Dataset
@@ -29,7 +29,7 @@ CONCLUSION
   4. Total Death
   5. Covid death
   6. Non-covid death
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 The exploratory data analysis (EDA) aims to address the following critical questions:
 
 - Which region reported the highest number of COVID-19-related deaths?
